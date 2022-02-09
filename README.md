@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By Daniel Lindsey
+#### By 
 
 ## Technologies Used
 
