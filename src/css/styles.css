@@ -2,6 +2,6 @@ body {
   background-color: seagreen;
 }
 
-img {
-  width: 25em;
-} 
+.roverHeader {
+  display: none;
+}
